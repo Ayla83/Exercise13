@@ -40,11 +40,6 @@ def divide(num1, num2):
 num1 = float(input("Input number: "))
 operator = str
 
-# check if user has not input an operator
-# while operator != '+' and operator != '-' and operator != '*' and operator != '/':
-#     print("Sorry, you must input one of the following operators: +, -, *, / ")
-#     operator = input("Input operator: ")
-
 # while loop if operator was not X
 isFirstRun = True
 
